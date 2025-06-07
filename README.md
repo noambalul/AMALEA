@@ -1,0 +1,2 @@
+# AMALEA
+Machine learning course
